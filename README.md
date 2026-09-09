@@ -17,10 +17,6 @@ MYSTERY
 Ciphertext:
 GKQASNMFGBDIMDTEDMRYPFYCXTXT
 
-Petunjuk:
-Pisahkan ciphertext menjadi pasangan huruf, kemudian lakukan dekripsi
-Playfair menggunakan key yang diberikan.
-
 Pesan plaintext akan memberi tahu Anda lokasi clue berikutnya.
 
 ## Evidence B — key.txt
@@ -28,7 +24,7 @@ Pesan plaintext akan memberi tahu Anda lokasi clue berikutnya.
 Jangan abaikan file `key.txt`.
 
 File tersebut berisi data untuk sebuah perhitungan Block Cipher
-dengan mode CBC. Gunakan hasil perhitungan untuk memperoleh password
+dengan mode CBC. Gunakan hasil perhitungan untuk memperoleh kunci
 yang diperlukan pada tahap berikutnya.
 
 Good luck, Investigator.

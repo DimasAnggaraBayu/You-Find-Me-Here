@@ -1,0 +1,3 @@
+Method : Block CBC
+Plain : 110101001011
+Key : 0110

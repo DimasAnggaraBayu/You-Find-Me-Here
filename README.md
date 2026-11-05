@@ -1,4 +1,4 @@
-# YOU FIND ME HERE, BATSIE
+# YOU FIND ME HERE BATSIE
 
 Akhirnya kau sampai di sini.
 
@@ -31,4 +31,4 @@ File tersebut berisi data untuk sebuah perhitungan Block Cipher
 dengan mode CBC. Gunakan hasil perhitungan untuk memperoleh kunci
 yang diperlukan pada tahap berikutnya.
 
-Good luck, Investigator.
+Good luck, Detektif.

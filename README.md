@@ -2,7 +2,7 @@
 
 Akhirnya kau sampai di sini.
 
-Selamat, Detektif. Tidak banyak yang mampu menembus lapisan enkripsi dan melangkahi setiap jebakan intelektual yang kupasang. Keberhasilanmu membuka dokumen ini membuktikan bahwa pikiranmu tidak sedangkal para pejabat korup dan polisi Gotham yang kini sudah membusuk di tanah. Kau telah mendapatkan hak untuk melangkah ke babak utama permainan kita.
+Selamat!!!!!!. Tidak banyak yang mampu menembus lapisan enkripsi dan melangkahi setiap jebakan intelektual yang kupasang. Keberhasilanmu membuka dokumen ini membuktikan bahwa pikiranmu tidak sedangkal para pejabat korup dan polisi Gotham yang kini sudah membusuk di tanah. Kau telah mendapatkan hak untuk melangkah ke babak utama permainan kita.
 
 Namun, jangan terburu-buru merayakan kemenangan kecil ini. Perjalananmu baru saja dimulai.
 
@@ -10,25 +10,6 @@ Setiap kematian di kota ini disusun dengan presisi matematis, sebuah mahakarya y
 
 Buka matamu, rakit setiap potongan teka-tekinya, dan ungkap siapa arsitek sebenarnya di balik semua bencana ini:
 
-## Evidence A — README
-
-Cipher:
-Playfair Cipher
-
-Key:
-MYSTERY
-
-Ciphertext:
-GKQASNMFGBDIMDTEDMRYPFYCXTXT
-
-Pesan plaintext akan memberi tahu Anda lokasi clue berikutnya.
-
-## Evidence B — key.txt
-
-Jangan abaikan file `key.txt`.
-
-File tersebut berisi data untuk sebuah perhitungan Block Cipher
-dengan mode CBC. Gunakan hasil perhitungan untuk memperoleh kunci
-yang diperlukan pada tahap berikutnya.
+<img width="1680" height="944" alt="Clue Rail Fence Cipher" src="https://github.com/user-attachments/assets/83da43dc-5f2c-4378-9489-a7f4402cb13a" />
 
 Good luck, Detektif.

@@ -8,8 +8,9 @@ Namun, jangan terburu-buru merayakan kemenangan kecil ini. Perjalananmu baru saj
 
 Setiap kematian di kota ini disusun dengan presisi matematis, sebuah mahakarya yang sengaja kuukir untuk menguji sejauh mana akalmu sanggup bertahan. Aku tidak bersembunyi di balik bayangan tanpa wajah; identitasku sebenarnya berada di tempat yang paling terang, tergelar rapi di hadapan matamu. Kau hanya perlu menatap lebih dekat, membaca di antara bait-bait yang kutinggalkan, dan mengeja pola yang telah kupersiapkan.
 
-Buka matamu, rakit setiap potongan teka-tekinya, dan ungkap siapa arsitek sebenarnya di balik semua bencana ini:
-
-<img width="1680" height="944" alt="Clue Rail Fence Cipher" src="https://github.com/user-attachments/assets/83da43dc-5f2c-4378-9489-a7f4402cb13a" />
-
+Buka matamu, rakit setiap potongan teka-tekinya, dan ungkap siapa arsitek sebenarnya di balik semua bencana ini.
 Good luck, Detektif.
+
+<img width="1008" height="566" alt="Clue 1" src="https://github.com/user-attachments/assets/83da43dc-5f2c-4378-9489-a7f4402cb13a" />
+
+

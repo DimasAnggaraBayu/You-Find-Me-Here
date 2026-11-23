@@ -11,6 +11,6 @@ Setiap kematian di kota ini disusun dengan presisi matematis, sebuah mahakarya y
 Buka matamu, rakit setiap potongan teka-tekinya, dan ungkap siapa arsitek sebenarnya di balik semua bencana ini.
 Good luck, Detektif.
 
-<img width="1008" height="566" alt="Clue 1" src="https://github.com/user-attachments/assets/83da43dc-5f2c-4378-9489-a7f4402cb13a" />
+<img width="1008" height="567" alt="Four-Track Railway Behind Picket Fence" src="https://github.com/user-attachments/assets/a095c987-ac27-44e1-858b-b8c7095d9018" />
 
 <img width="1008" height="672" alt="Ciphered Evidence Desk Investigation" src="https://github.com/user-attachments/assets/4679a5d6-9957-4eef-839e-737dec14ded9" />
